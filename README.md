@@ -1,3 +1,4 @@
-# NYUAD Data Science and AI Lab Research
-# ***"Revisiting Allegations on YouTube's User Radicalization"***
-A repository for the ongoing capstone project
+# NYUAD Data Science and AI Lab research 2021~Present
+# ***Revisiting Allegations on YouTube's User Radicalization***
+  
+A repository for the ongoing research project. The files have not been fully organized yet.
